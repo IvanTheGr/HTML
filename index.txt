@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="showroom">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Diamond Cut Motors</title>
+</head>
+<body>
+    <div class="container">
+        <nav class="navbar">
+            <img src="./logo2.png" class="logos" />
+            <div class="list">
+                <div class="list-item">
+                    <a href="./index.html">Home</a>
+                </div>
+                <div class="list-item">
+                    <a href="./cars.html">Cars</a>
+                </div>
+                <div class="list-item">
+                    <a href="./showroom.html">Showroom</a>
+                </div>
+                <div class="list-item">
+                    <a href="./about.html">About Us</a>
+                </div>
+                <div class="list-item">
+                    <a href="./login.html">Login</a>
+                </div>
+            </div>
+        </nav>
+    </div>
+    
+    <div class="tag-line">
+        <br><h1>Luxury, Performance and Trusted</h1><br>
+    </div>
+    <div class="gallery-wrapper">
+        <h1>Top Tier Cars</h1><br>
+        <div class="gallery">
+          <figure class="image-container">
+            <img src="./ferrari f8.jpg" alt="Ferrari F8" class="image" />
+          </figure>
+          <figure class="image-container">
+            <img src="./BMW M5 CS-9.webp" alt="BMW M5" class="image" />
+          </figure>
+          <figure class="image-container">
+            <img src="./porsche 718 spyder.jpg" alt="Porsche 718 Spyder" class="image" />
+          </figure>
+          <figure class="image-container">
+            <img src="./porsche taychan.jpg" alt="Porsche Taycan" class="image" />
+          </figure>
+          <figure class="image-container">
+            <img src="./Lamborghini-Aventador-SVJ-Roadster-5.jpg" alt="Lamborghini Aventador SVJ Roadster" class="image" />
+          </figure>
+        </div>
+      </div><br>
+    <div class="feature">
+        <h1>Feature Cars</h1><br>
+    </div>
+    <div class="conts">
+        <div class="slider">
+            <div class="slide">
+                <img src="./plugin powertrains.jpg" alt="Plug in Powertrains">
+                <div class="explanation">
+                    <article>Plug in Powertrains</article>
+                </div>
+            </div>
+            <div class="slide">
+                <img src="./2_forward_collision_detection_general_motors.jpg" alt="Forward Collision Warning">
+                <div class="explanation">
+                    <article>Forward Collision Warning</article>
+                </div>
+            </div>
+            <div class="slide">
+                <img src="./24-2023-honda-accord-touring.jpg" alt="Blind Spot Monitoring">
+                <div class="explanation">
+                    <article>Blind Spot Monitoring</article>
+                </div>
+            </div>
+            <div class="slide">
+                <img src="./7_lane_keep_assist_Marin_Tomas_getty_images.jpg" alt="Lane Keep Assist">
+                <div class="explanation">
+                    <article>Lane Keep Assist</article>
+                </div>
+            </div>
+            <div class="slide">
+                <img src="./13_parking_sensors_toyota.jpg" alt="Parking Sensor">
+                <div class="explanation">
+                    <article>Parking Sensor</article>
+                </div>
+            </div>
+            <div class="slide">
+                <img src="./2022_Kia_EV6_Safety.jpg" alt="Surround View Cameras">
+                <div class="explanation">
+                    <article>Surround View Cameras</article>
+                </div>
+            </div>
+            <div class="slide">
+                <img src="./2023-lucid-air-2.jpg" alt="Electronic Door Handles">
+                <div class="explanation">
+                    <article>Electronic Door Handles</article>
+                </div>
+            </div>
+            <div class="slide">
+                <img src="./36-2024-acura-integra-type-s.jpg" alt="Premium Audio System">
+                <div class="explanation">
+                    <article>Premium Audio System</article>
+                </div>
+            </div>
+            <div class="slide">
+                <img src="./mercedes-benz-automated-parking.jpg" alt="Automatic Parking">
+                <div class="explanation">
+                    <article>Automatic Parking</article>
+                </div>
+            </div>
+            <div class="slide">
+                <img src="./20_night_vision_2021_cadillac_escalade.jpg" alt="Night Vision">
+                <div class="explanation">
+                    <article>Night Vision </article>
+                </div>
+            </div>
+        </div>
+    </div><br>
+    <br><div class="guarantee">
+        <article>Embark on Excellence: Where Every Journey Begins with Quality!</article><br>
+    </div>
+</body>
+<br><footer> 
+    <div class="footer-section links"><br>
+        <div class="footer-quick">
+            <a href="./index.html">Home</a>
+        </div>
+        <div class="footer-quick">
+            <a href="./cars.html">Cars</a>
+        </div>
+        <div class="footer-quick">
+            <a href="./showroom.html">Showroom</a>
+        </div>
+        <div class="footer-quick">
+            <a href="./about.html">About Us</a>
+        </div>
+        <div class="footer-quick">
+            <a href="./login.html">Login</a>
+        </div>
+    </div><br>
+    <div class="footer-sects">All Right Reserved 2024</div>
+
+</div>
+</footer>
+</html>

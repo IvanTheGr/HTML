@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="showroom">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="loginstyle.css">
+    <title>Diamond Cut Motors</title>
+</head>
+<body>
+    <div class="container">
+        <nav class="navbar">
+            <img src="./logo2.png" class="logos" alt="Logo">
+            <div class="list">
+                <div class="list-item">
+                    <a href="./index.html"><b>Home</b></a>
+                </div>
+                <div class="list-item">
+                    <a href="./cars.html"><b>Cars</b></a>
+                </div>
+                <div class="list-item">
+                    <a href="./showroom.html"><b>Showroom</b></a>
+                </div>
+                <div class="list-item">
+                    <a href="./about.html"><b>About Us</b></a>
+                </div>
+                <div class="list-item">
+                    <a href="./login.html"><b>Login</b></a>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <div class="form-container"><br>
+        <div class="login">Login</div><br>
+        <form id="login-form">
+            <div class="form">
+                <label for="username">Username</label><br>
+                <input type="text" id="username" required><br>
+            </div>
+            <div class="form">
+                <label for="email">Email</label><br>
+                <input type="email" id="email" required><br>
+            </div>
+            <div class="form">
+                <label for="phone">Phone Number</label><br>
+                <input type="tel" id="phone" required><br>
+            </div>
+            <div class="form">
+                <label for="password">Password</label><br>
+                <input type="password" id="password" required><br>
+            </div>
+            <div class="form">
+                <label for="conpass">Confirm Password</label><br>
+                <input type="password" id="conpass" required><br>
+            </div>
+            <div class="box">
+                <input type="checkbox" id="faq" required>
+                <label for="faq" class="faq-rule">I agree to the terms and services</label><br>
+            </div>
+            <button type="submit" class="submit-button">Login</button><br>
+        </form>
+        <footer> 
+            <div class="footer-section links"><br>
+                <div class="footer-quick">
+                    <a href="./index.html">Home</a>
+                </div>
+                <div class="footer-quick">
+                    <a href="./cars.html">Cars</a>
+                </div>
+                <div class="footer-quick">
+                    <a href="./showroom.html">Showroom</a>
+                </div>
+                <div class="footer-quick">
+                    <a href="./about.html">About Us</a>
+                </div>
+                <div class="footer-quick">
+                    <a href="./login.html">Login</a>
+                </div>
+            </div><br>
+            <div class="footer-sects">All Right Reserved 2024</div>
+        </footer>
+    </div>
+    <video src="./6873503-uhd_2160_3840_25fps.mp4" autoplay loop muted></video>
+    <script src="logins.js"></script>
+</body>
+</html>

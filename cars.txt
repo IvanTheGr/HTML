@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="showroom">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="carstyles.css">
+    <title>Diamond Cut Motors</title>
+</head>
+<body>
+    <div class="container">
+        <nav class="navbar">
+            <img src="./logo2.png" class="logos" />
+            <div class="list">
+                <div class="list-item">
+                    <a href="./index.html">Home</a>
+                </div>
+                <div class="list-item">
+                    <a href="./cars.html">Cars</a>
+                </div>
+                <div class="list-item">
+                    <a href="./showroom.html">Showroom</a>
+                </div>
+                <div class="list-item">
+                    <a href="./about.html">About Us</a>
+                </div>
+                <div class="list-item">
+                    <a href="./login.html">Login</a>
+                </div>
+            </div>
+        </nav>
+    </div>
+    
+    <div class="partner">
+        <br><h1>Brand that Working with Us</h1><br>
+    </div>
+    <div class="brand">
+        <div class="brand-slider">
+                <img src="./ferrari logo.webp" alt="Ferrari">
+                <img src="./bmw.png" alt="BMW">
+                <img src="./Jaguar-Logo-2012-present.png" alt="Jaguar">
+                <img src="./Lamborghini-Logo.png" alt="Lamborghini">
+                <img src="./Mercedes-Benz_Logo.webp" alt="Mercedes Benz">
+                <img src="./Porsche-Logo.png" alt="Porsche">
+                <img src="./Subaru_logo.png" alt="Subaru">
+                <img src="./toyota logo.png" alt="Toyota">
+                <img src="./rolls royce.png" alt="Rolls Royce">
+                <img src="./mazda-logo.png" alt="Mazda">
+                <img src="./McLaren-Logo.png" alt="Mclaren">
+                <img src="./honda.png" alt="Honda">
+                <img src="./lexus.png" alt="Lexus">
+                <img src="./tesla.png" alt="Tesla">
+                <img src="./acura logo.png" alt="Acura">
+    </div><br>
+
+    <div class="sales">
+        <h3>New Arrived</h3>
+    </div>
+    <div class="card-container">
+        <div class="card">
+            <img src="./ferrari f8.jpg">
+            <div class="card-content">
+            <h3>Ferrari</h3>
+            <article>F8</article>
+            </div>
+        </div>
+        <div class="card">
+            <img src="./aventador svj.png">
+            <div class="card-content">
+            <h3>Lamborghini</h3>
+            <article>Aventador SVJ Roadster 5</article>
+            </div>
+        </div>
+        <div class="card">
+            <img src="./porsche 718 spyder.png">
+            <div class="card-content">
+            <h3>Porsche</h3>
+            <article>718 Spyder</article>
+            </div>
+        </div>
+        <div class="card">
+            <img src="./BMW M5.png">
+            <div class="card-content">
+            <h3>BMW </h3>
+            <article>M5</article>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="./tesla model y.png">
+            <div class="card-content">
+            <h3>Tesla </h3>
+            <article>Model Y</article>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="./rolls royce ghost.png">
+            <div class="card-content">
+            <h3>Rolls Royce </h3>
+            <article>Ghost</article>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="./subaru wrx.png">
+            <div class="card-content">
+            <h3>Subaru</h3>
+            <article>WRX</article>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="./lexus lc500.png">
+            <div class="card-content">
+            <h3>Lexus </h3>
+            <article>LC500</article>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="./toyota supra.png">
+            <div class="card-content">
+            <h3>Toyota </h3>
+            <article>Supra</article>
+            </div>
+        </div>
+        
+        <div class="card">
+            <img src="./honda accord.png">
+            <div class="card-content">
+            <h3>Honda </h3>
+            <article>Accord Euro</article>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="./acura nsx.png">
+            <div class="card-content">
+            <h3>Acura </h3>
+            <article>NSX</article>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="./mazda cx-5.png">
+            <div class="card-content">
+            <h3>Mazda </h3>
+            <article>CX-5</article>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="./jaguar xf.png">
+            <div class="card-content">
+            <h3>Jaguar </h3>
+            <article>XF</article>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="./Audi R8.png">
+            <div class="card-content">
+            <h3>Audi </h3>
+            <article>R8</article>
+            </div>
+        </div>
+        <div class="card">
+            <img src="./mercedes benz amg gtr.png">
+            <div class="card-content">
+            <h3>Mercedes Benz </h3>
+            <article>AMG GT R</article>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="./mclaren 570s.png">
+            <div class="card-content">
+            <h3>McLaren </h3>
+            <article>720S</article>
+            </div>
+        </div>
+    </div><br>
+    <div class="top-sells">
+        <h4>Top Used Cars</h4>
+    </div>
+    <div class="card-container">
+        <div class="card">
+            <img src="./ferarri sf90.jpg">
+            <div class="card-content">
+            <h3>Ferrari</h3>
+            <article>SF90</article>
+            </div>
+        </div>
+        <div class="card">
+            <img src="./lamborghini huracan.jpg">
+            <div class="card-content">
+            <h3>Lamborghini</h3>
+            <article>Huracan</article>
+            </div>
+        </div>
+        <div class="card">
+            <img src="./porsche 911.jpg">
+            <div class="card-content">
+            <h3>Porsche</h3>
+            <article>911 Turbo S Coupe</article>
+            </div>
+        </div>
+        <div class="card">
+            <img src="./subaru brz.jpg">
+            <div class="card-content">
+            <h3>Subaru</h3>
+            <article>BRZ</article>
+            </div>
+        </div>
+    </div>
+</body>
+<br><footer> 
+        <div class="footer-section links"><br>
+            <div class="footer-quick">
+                <a href="./index.html">Home</a>
+            </div>
+            <div class="footer-quick">
+                <a href="./cars.html">Cars</a>
+            </div>
+            <div class="footer-quick">
+                <a href="./showroom.html">Showroom</a>
+            </div>
+            <div class="footer-quick">
+                <a href="./about.html">About Us</a>
+            </div>
+            <div class="footer-quick">
+                <a href="./login.html">Login</a>
+            </div>
+        </div><br>
+        <div class="footer-sects">All Right Reserved 2024</div>
+
+</div>
+</footer>
+</html>

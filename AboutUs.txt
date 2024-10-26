@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="aboutstyle.css">
+</head>
+<body>
+    <div class="container">
+        <nav class="navbar">
+            <img src="./logo2.png" class="logos" ></img>
+            <div class="list">
+                <div class="list-item">
+                    <a href="./index.html">Home</a>
+                </div>
+                <div class="list-item">
+                    <a href="./cars.html">Cars</a>
+                </div>
+                <div class="list-item">
+                    <a href="./showroom.html">Showroom</a>
+                </div>
+                <div class="list-item">
+                    <a href="./about.html">About Us</a>
+                </div>
+                <div class="list-item">
+                    <a href="./login.html">Login</a>
+                </div>
+            </div>
+        </nav>
+    </div>
+
+    <div class="visions"><br>
+        <div class="vision-pads">
+        <h1>Vision</h1>
+        <article>Our Vision is To redefine luxury car buying experience<br> by exceptional service and passion for excellence.</article><br>
+        </div>
+        <div class="images">
+        <img src="./ferrari 812 gts.png" alt="https://ivansmotor.com/wp-content/uploads/2022/08/Artboard-1-2.jpg"><br>
+        </div>
+    </div>
+    <div class="missions">
+        <div class="mission-pads">
+        <h2>Mission</h2>
+        <article><li>Focusing Exquisite Collection</li></article>
+        <p>which include high-end, luxurious cars that discerning taste of our client.</p><br>
+        <article><li>Exceptional Customer Service</li></article>
+        <p>We deliver personalized and attentive service to every customer which ensuring a seamless and memorable buying experience.</p><br>
+        <article><li>Global Reach And Sustainable Luxury</li></article>
+        <p>Expanding our presence and brand recognition internationally by leveraging strategic partnership.</p>
+        <p>We also offer sustainable luxury vehicles while supporting eco-friendly innovations.</p>
+        </div>
+        <div class="images2">
+        <img src="./Bentley Bentayga Hybrid First Edition.png" alt="https://ivansmotor.com/wp-content/uploads/2022/08/Artboard-1.jpg"><br>
+        </div>
+        </div>
+    </div>
+    <div class="history">
+        <div class="history-pads">
+        <h3>About Diamond Cut Motors</h3>
+        <p>Founded in 1998, DiamondCut Motors began as a small car reseller in Indonesia and quickly grew by partnering with prestigious brands like Porsche, Ferarri, and Bugatti. Known for its exceptional service, timely delivery, and commitment to safety, the company has become a trusted name among business owners and successful individuals. With multiple modern showrooms across Indonesia, DiamondCut Motors continues to expand, aiming for global reach while upholding its dedication to excellence and customer satisfaction.</p><br>
+        </div>
+        <div class="images3">
+        <img src="./Rolls Royce Ghost Black Badge.png" alt="https://ivansmotor.com/wp-content/uploads/2022/07/Artboard-1.jpg">
+        </div>
+    </div>
+    <div class="socials">
+        <h1>Social Media</h1>
+    
+        <div class="socialmedia">
+        <a href="https://www.instagram.com" target="_self" class="icon">
+            <img src="./instagram.svg" alt="Instagram" class="socmed">
+        </a>
+        <a href="https://www.twitter.com" target="_self" class="icon">
+            <img src="./twitter-x.svg" alt="Twitter" class="socmed">
+        </a>
+        <a href="https://www.facebook.com" target="_self" class="icon">
+            <img src="./facebook.svg" alt="Facebook" class="socmed">
+        </a>
+        </div>
+    </div>
+</body> 
+<br><footer> 
+    <div class="footer-section links"><br>
+        <div class="footer-quick">
+            <a href="./index.html">Home</a>
+        </div>
+        <div class="footer-quick">
+            <a href="./cars.html">Cars</a>
+        </div>
+        <div class="footer-quick">
+            <a href="./showroom.html">Showroom</a>
+        </div>
+        <div class="footer-quick">
+            <a href="./about.html">About Us</a>
+        </div>
+        <div class="footer-quick">
+            <a href="./login.html">Login</a>
+        </div>
+    </div><br>
+    <div class="footer-sects">All Right Reserved 2024</div>
+
+</div>
+</footer>
+</html>
